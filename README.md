@@ -1,6 +1,14 @@
-## Hi, I'm Ansh 👋
+# Hey, I'm Ansh 👋
 
-**Cloud Infrastructure, DevOps, and Backend Systems**.
-Currently building cloud tools and learning AWS architecture through hands-on projects.
-### Connect
-LinkedIn: https://linkedin.com/in/theanshsonkar
+Cloud Security Engineer & Backend Developer
+Building real things on AWS.
+
+## What I'm working on
+🔥 Emfirge — AWS Security Auditing Platform
+🔴 Live: https://emfirge.vercel.app
+
+## Tech I actually use
+AWS (IAM, S3, EC2, VPC, GuardDuty) · FastAPI · 
+Python · Docker · GitHub Actions · Node.js
+
+🔗 linkedin.com/in/theanshsonkar
