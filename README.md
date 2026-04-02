@@ -6,6 +6,7 @@ Building real things on AWS.
 ## What I'm working on
 🔥 Emfirge — AWS Security Auditing Platform
 🔴 Live: https://emfirge.vercel.app
+
 Whitepaper - emfirge.vercel.app/whitepaper.html
 
 ## Tech I actually use
