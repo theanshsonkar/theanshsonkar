@@ -7,7 +7,7 @@ Building real things on AWS.
 🔥 Emfirge — AWS Security Auditing Platform
 🔴 Live: https://emfirge.vercel.app
 
-Whitepaper - emfirge.vercel.app/whitepaper.html
+ > Whitepaper - [emfirge.vercel.app/whitepaper.html](https://emfirge.vercel.app/whitepaper.html)
 
 ## Tech I actually use
 AWS (IAM, S3, EC2, VPC, GuardDuty) · FastAPI · 
