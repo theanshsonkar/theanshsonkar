@@ -4,10 +4,8 @@ Cloud Security Engineer & Backend Developer
 Building real things on AWS.
 
 ## What I'm working on
-🔥 Emfirge — AWS Security Auditing Platform
+🔥 Emfirge — Cloud Security Agent
 🔴 Live: https://emfirge.vercel.app
-
- > Whitepaper - [emfirge.vercel.app/whitepaper.html](https://emfirge.vercel.app/whitepaper.html)
 
 ## Tech I actually use
 AWS (IAM, S3, EC2, VPC, GuardDuty) · FastAPI · 
