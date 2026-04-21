@@ -1,14 +1,19 @@
-# Hey, I'm Ansh 👋
+# Ansh Sonkar
 
-Cloud Security Engineer & Backend Developer
-Building real things on AWS.
+3rd year CS @ Bennett University. Building on AWS.
 
-## What I'm working on
-🔥 Emfirge — Cloud Security Agent
-🔴 Live: https://emfirge.vercel.app
+## building
 
-## Tech I actually use
-AWS (IAM, S3, EC2, VPC, GuardDuty) · FastAPI · 
-Python · Docker · GitHub Actions · Node.js
+**Emfirge** — AWS cloud security advisor  
+🔴 https://emfirge.cloud
 
-🔗 linkedin.com/in/theanshsonkar
+finds attack chains, not just misconfigs.  
+selected for Canopy by Founders Inc.
+
+## stack
+
+FastAPI · Python · AWS · Docker · GitHub Actions · Gemini 2.5 Flash
+
+## links
+
+[linkedin](https://linkedin.com/in/theanshsonkar) · [github](https://github.com/theanshsonkar)
