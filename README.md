@@ -2,7 +2,7 @@
 
 ## building
 
-**Emfirge** — AWS cloud security advisor  
+**Emfirge** — AI Cloud Security Agent  
 🔴 https://emfirge.cloud
 
 finds attack chains, not just misconfigs.  
