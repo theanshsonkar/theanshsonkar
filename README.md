@@ -1,13 +1,22 @@
 # Ansh Sonkar
 
-## building
+Building tools that help engineers understand complex systems.
 
-**Emfirge** AI Cloud Security Agent  
-🔴 https://emfirge.cloud
+### Emfirge
+AI-native cloud security platform.
+Finds attack paths, not just misconfigurations.
 
-finds attack chains, not just misconfigs.  
-selected for Canopy by Founders Inc.
+### Carto
+Structural intelligence for AI coding agents.
+Turns large codebases into navigable knowledge graphs.
 
-**Carto** keeps your AGENTS.md always current                                                       
-  📦 npm install -g carto-md                                                                            
-  your code changes & every AI always knows.
+### Why
+
+I care about one problem:
+How do we make complex systems understandable?
+Cloud infrastructure.
+Security graphs.
+Codebases.
+AI agents.
+
+Everything I build is a different answer to that question.
