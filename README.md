@@ -4,11 +4,10 @@ Building tools that help engineers understand complex systems.
 
 ### Emfirge
 AI-native cloud security platform.
-Finds attack paths, not just misconfigurations.
+Finds attack paths, not just misconfigurations, Cloud security graphs and infrastructure simulation.
 
 ### Carto
 Structural intelligence for AI coding agents.
-Turns large codebases into navigable knowledge graphs.
 
 ### Why
 
