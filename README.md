@@ -7,7 +7,7 @@ AI-native cloud security platform.
 Finds attack paths, not just misconfigurations, Cloud security graphs and infrastructure simulation.
 
 ### Carto
-Structural intelligence for AI coding agents.
+Portable AI container of a codebase that any AI can load instantly. Gives architectural context, blast radius analysis, domains, routes, codebase impact awareness, more.
 
 ### Why
 
