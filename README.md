@@ -3,8 +3,7 @@
 Building tools that help engineers understand complex systems.
 
 ### Emfirge
-AI-native cloud security platform.
-Finds attack paths, not just misconfigurations, Cloud security graphs and infrastructure simulation.
+The Git branch for your cloud. Give your AI a read only map of AWS. Trace attack paths, test a security fix on a cloned graph, and see the result before touching production.
 
 ### Carto
 Portable AI container of a codebase that any AI can load instantly. Gives architectural context, blast radius analysis, domains, routes, codebase impact awareness, more.
